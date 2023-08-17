@@ -1,2 +1,2 @@
 # DiscordBotThing
-Made for roblox moderation from a discord bot
+funny discord bot i've made for discord
